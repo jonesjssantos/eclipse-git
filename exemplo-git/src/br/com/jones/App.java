@@ -5,6 +5,7 @@ public class App {
 	public static void main(String[] args) {
 		System.out.println("Alterado pelo GitHub");
 		// Alterado do eclipse
+		// Alterado pelo novo usuario
 	}
 
 }
