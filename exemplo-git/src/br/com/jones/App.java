@@ -3,7 +3,7 @@ package br.com.jones;
 public class App {
 
 	public static void main(String[] args) {
-		System.out.println("Teste 1");
+		System.out.println("Alterado pelo GitHub");
 	}
 
 }
