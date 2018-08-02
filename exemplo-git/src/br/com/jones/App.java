@@ -6,4 +6,7 @@ public class App {
 		System.out.println("Alterado pelo Eclipse");
 	}
 
+	public static void mensagemEclipse() {
+		System.out.println("Mensagem do eclipse");
+	}
 }
