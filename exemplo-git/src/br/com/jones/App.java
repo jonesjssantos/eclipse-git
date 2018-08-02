@@ -9,4 +9,8 @@ public class App {
 	public static void mensagemEclipse() {
 		System.out.println("Mensagem do eclipse");
 	}
+
+	public static void mensagem() {
+		System.out.println("Novo Metodo");
+	}
 }
